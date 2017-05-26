@@ -1,0 +1,24 @@
+h1, h2 {
+    text-align: center;
+}
+
+textarea {
+    height: 100px;
+}
+
+section:first-child p{
+    text-align: center;
+    font-style: italic;
+}
+
+#thinking {
+    font-weight: 200;
+    font-style: italic;
+    font-size: 14px;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+}
